@@ -9,4 +9,4 @@
  
 ### SᴇSɪᴏɴ Sᴛʀɪɴɢ
 
-[![Run on Repl.it](https://repl.it/badge/github/DARKAMAN5/DARK)](https://repl.it/@DARKAMAN5/DARK)   
+[![Run on Repl.it](https://replit.com/badge/github/DARKAMAN5/DARK)](https://replit.com/@DARKAMAN5/DARK)   
