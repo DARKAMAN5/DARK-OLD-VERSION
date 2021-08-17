@@ -1,4 +1,4 @@
-# KANGER-KA-MAA-KA-BHOSDA
+# KANGER-KI-MAA-KA-BHAROSA 
 
 ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴜᴋᴏ
 
@@ -8,5 +8,5 @@
 <br>
  
 ### SᴇSɪᴏɴ Sᴛʀɪɴɢ
-
-[![Run on Repl.it](https://repl.it/badge/github/DARKAMAN5/GenerateStringSession)](https://repl.it/@DARKAMAN5/GenerateStringSession)
+[![REPL](https://repl.it/badge/github/DARKAMAN5/dark)](https://replit.com/@darkaman5/DARK#main.py)
+    
