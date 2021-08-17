@@ -9,4 +9,5 @@
  
 ### SᴇSɪᴏɴ Sᴛʀɪɴɢ
 
-[![Run on Repl.it](https://replit.com/badge/github/DARKAMAN5/DARK)](https://replit.com/@DARKAMAN5/DARK)   
+[![REPL](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://replit.com/@darkaman5/DARK#main.py)
+       
