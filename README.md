@@ -8,5 +8,5 @@
 <br>
  
 ### SᴇSɪᴏɴ Sᴛʀɪɴɢ
-[![REPL](https://repl.it/badge/github/DARKAMAN5/dark)](https://replit.com/@darkaman5/DARK)
+[![REPL](https://replit.com/@DARKAMAN5/DARK)](https://replit.com/@DARKAMAN5/DARK)
     
