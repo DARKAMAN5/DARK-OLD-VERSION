@@ -13,7 +13,7 @@ from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from Utils import RAID, RRAID
-
+import Alive.py
 
 a = API_ID
 b = API_HASH
