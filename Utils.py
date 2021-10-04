@@ -303,7 +303,6 @@ RRAID = [
 ]
 
 ALIVE = [
-    "DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown",
     "PM_IMG = "https://telegra.ph/file/a5aa529850eca1fcca807.jpg",
     "pm_caption = "`DARKSIDE USERBOT IS:` **ALIVE**\n\n",
     "pm_caption += "**SYSTEM STATUS**\n",
